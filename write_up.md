@@ -20,7 +20,7 @@ explanation of Bayes Filter, KF and EKF.
 [image1]: /writeup_images/data.png 
 [image2]: /writeup_images/9.png 
 [image3]: /writeup_images/36.png 
-[image3]: /writeup_images/499.png 
+[image4]: /writeup_images/499.png 
 
 
 ## Rubric Points
